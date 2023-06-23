@@ -1,0 +1,366 @@
+[
+    {
+        "name": "Bein Pre 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2021\/08\/26\/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium98\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Pre 2",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/01\/10\/effa4c50-90b2-11ed-b4e2-398cc06dfccc_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium99\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Pre 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/17\/b264e230-aeab-11ed-95de-5545f30d1542_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium100\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Eng 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2021\/08\/26\/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium61\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Eng 2",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/01\/10\/effa4c50-90b2-11ed-b4e2-398cc06dfccc_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium90\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Eng 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/17\/b264e230-aeab-11ed-95de-5545f30d1542_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium46\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Sports 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2021\/08\/26\/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium91\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Sports 2",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/01\/10\/effa4c50-90b2-11ed-b4e2-398cc06dfccc_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium92\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Sports 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/17\/b264e230-aeab-11ed-95de-5545f30d1542_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium118\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Sports 4",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/20\/035d38e0-b104-11ed-9a33-f5d3c03315ad_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium94\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Sports 5",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/04\/05\/33989a60-d38a-11ed-bfcf-47833da7d62d_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium95\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Sports 6",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2022\/04\/19\/b8503f40-bf92-11ec-b538-73498e79c864_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium96\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein 7",
+        "thumb": "https:\/\/i.imgur.com\/IdCF5ut.png",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium97\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "beIN Sports Xtra",
+        "thumb": "https:\/\/i.imgur.com\/uJosqHh.png",
+        "m3u8_link": "https:\/\/dai.google.com\/linear\/hls\/event\/3e-9BOvHQrCI9hboMYjb6w\/master.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "Bein Fr 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2021\/08\/26\/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium116\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Fr 2",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/01\/10\/effa4c50-90b2-11ed-b4e2-398cc06dfccc_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium117\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bein Fr 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/17\/b264e230-aeab-11ed-95de-5545f30d1542_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium100\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In tu 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2021\/08\/26\/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium62\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In tu 2",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/01\/10\/effa4c50-90b2-11ed-b4e2-398cc06dfccc_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium63\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In tu 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/17\/b264e230-aeab-11ed-95de-5545f30d1542_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium64\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In tu 4",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/20\/035d38e0-b104-11ed-9a33-f5d3c03315ad_webp_320.webp",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium67\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "BT Sport 1",
+        "thumb": "https:\/\/www.dooballfree24hr.com\/wp-content\/uploads\/2022\/04\/bt-sport-1.jpg",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium31\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "BT Sport 2",
+        "thumb": "https:\/\/www.dooballfree24hr.com\/wp-content\/uploads\/2022\/04\/bt-sport-2.jpg",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium32\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "BT Sport 3",
+        "thumb": "https:\/\/www.dooballfree24hr.com\/wp-content\/uploads\/2022\/04\/bt-sport-3.jpg",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium33\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "BT Sport 4",
+        "thumb": "https:\/\/i.imgur.com\/CYnXzO0.png",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium34\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "MUTV",
+        "thumb": "https:\/\/www.img02.xyz\/assets\/img\/ch_logo\/uk-mutv.jpg",
+        "m3u8_link": "https:\/\/bcovlive-a.akamaihd.net\/r2d2c4ca5bf57456fb1d16255c1a535c8\/eu-west-1\/eu-west-1\/6058004203001\/profile_1\/chunklist.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Bar\u00e7a TV Spain",
+        "thumb": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTPmAfNx_4h9QUDX8sVXo9VJOfHz_JQ5S-tH6KRlCk8LCceqKdgjNMeesC5Ybh510epd9s&usqp=CAU",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium522\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Premier league",
+        "thumb": "https:\/\/logos-world.net\/wp-content\/uploads\/2023\/02\/Premier-League-Logo-2007.png",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium414\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Real Madrid TV Spain",
+        "thumb": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQZt5w9YnU1n1kqCkOOhHdu3Etmm7y7qtsxMtTDSnoiuke124r2HdDT798OckATUJt5_8I&usqp=CAU",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium523\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "La Liga",
+        "thumb": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQxyUM1qkQ9nswFoui8SV5X6FhuSIgLXkue8TSNyDr_&s",
+        "m3u8_link": "https:\/\/webudit.cdnhks.lol\/lb\/premium415\/index.m3u8",
+        "refer": "https:\/\/ntuplay.xyz\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Th 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2021\/08\/26\/05890500-0632-11ec-9b2a-5fa5449ad866_webp_320.webp",
+        "m3u8_link": "https:\/\/sport.livedoomovies.com:4432\/02_epl1_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Be In Th 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/02\/17\/b264e230-aeab-11ed-95de-5545f30d1542_webp_320.webp",
+        "m3u8_link": "https:\/\/sport.livedoomovies.com:4432\/02_epl2_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "True Premier Football 5",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/05\/03\/bbea1690-e966-11ed-935b-df134f58d288_webp_320.webp",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4431\/02_PremierHD5_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "True Premier Football 4",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/05\/03\/bb0beb90-e966-11ed-993c-b59183950f79_webp_320.webp",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4431\/02_PremierHD4_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "True Premier Football 3",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/05\/03\/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_320.webp",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4431\/02_PremierHD3_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "True Premier Football 2",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/05\/03\/ba4c4510-e966-11ed-896e-69ce273284a6_webp_320.webp",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4431\/02_PremierHD2_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "True Premier Football 1",
+        "thumb": "https:\/\/cms.dmpcdn.com\/livetv\/2023\/05\/03\/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_320.webp",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4431\/02_PremierHD1_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "TF1",
+        "thumb": "https:\/\/i.imgur.com\/bDinzV1.jpg",
+        "m3u8_link": "https:\/\/tf1-hls-live-cdn1.tf1.fr\/out\/v1\/c2e382be3aa2486e8753747e7bb6157e\/index.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "AD SPORT1",
+        "thumb": "https:\/\/i.imgur.com\/RVadoE0.png",
+        "m3u8_link": "https:\/\/admdn1.cdn.mangomolo.com\/adsports1\/smil:adsports1.stream.smil\/playlist.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "All Sport",
+        "thumb": "https:\/\/i.imgur.com\/fMSeGvU.jpg",
+        "m3u8_link": "https:\/\/5cf4a2c2512a2.streamlock.net\/dgrau\/dgrau\/chunklist.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "CVD1",
+        "thumb": "https:\/\/i.imgur.com\/gSj6GId.png",
+        "m3u8_link": "https:\/\/dmitnthvll.cdn.mangomolo.com\/dubaisports\/smil:dubaisports.smil\/chunklist_b1500000.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "CVD2",
+        "thumb": "https:\/\/i.imgur.com\/gSj6GId.png",
+        "m3u8_link": "https:\/\/dmitwlvvll.cdn.mangomolo.com\/dubaisportshd\/smil:dubaisportshd.smil\/chunklist_b1300000.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "Math",
+        "thumb": "https:\/\/i.imgur.com\/s2DJWEm.jpg",
+        "m3u8_link": "https:\/\/bl.uma.media\/live\/407384\/HLS\/6307840_7,4280320\/2\/1\/playlist.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "Nat Geo",
+        "thumb": "https:\/\/i.imgur.com\/c1GasCf.png",
+        "m3u8_link": "https:\/\/admdn2.cdn.mangomolo.com\/nagtv\/smil:nagtv.stream.smil\/chunklist_b4000000_t64MTA4MHA=.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "OneGolf",
+        "thumb": "https:\/\/i.imgur.com\/326zaiL.png",
+        "m3u8_link": "https:\/\/admdn2.cdn.mangomolo.com\/nagtv\/smil:nagtv.stream.smil\/chunklist_b4000000_t64MTA4MHA=.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "Redbull",
+        "thumb": "https:\/\/i.imgur.com\/tSjpsf3.png",
+        "m3u8_link": "https:\/\/rbmn-live.akamaized.net\/hls\/live\/590964\/BoRB-AT\/master_1660.m3u8?xtreamiptv.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "UFC2",
+        "thumb": "https:\/\/i.imgur.com\/KuFDgnf.png",
+        "m3u8_link": "https:\/\/a.jsrdn.com\/broadcast\/47cff5378f\/+0000\/c.m3u8",
+        "refer": "",
+        "agent": ""
+    },
+    {
+        "name": "SPOTV",
+        "thumb": "https:\/\/www.img09.xyz\/assets\/img\/ch_logo\/hd-spotv1.png",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4432\/02_foxsport_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "SPOTV 2",
+        "thumb": "https:\/\/www.img08.xyz\/assets\/img\/ch_logo\/hd-spotv2.png",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4432\/02_FoxSport2_TH_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Tennis",
+        "thumb": "https:\/\/www.img09.xyz\/assets\/img\/ch_logo\/hd-tennis.png",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4432\/02_TennisHD_720p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "Tsport",
+        "thumb": "https:\/\/www.img10.xyz\/assets\/img\/ch_logo\/TSportsChannel.png",
+        "m3u8_link": "https:\/\/www.livedoomovies.com:4432\/02_T_Sports_480p\/chunklist.m3u8",
+        "refer": "https:\/\/www.youdooball.com\/",
+        "agent": "Mozilla\/5.0"
+    },
+    {
+        "name": "SHAR",
+        "thumb": "https:\/\/i.imgur.com\/720V9jM.jpg",
+        "m3u8_link": "https:\/\/svs.itworkscdn.net\/smc4sportslive\/smc4.smil\/smc4tv_360p_chunks.m3u8",
+        "refer": "",
+        "agent": ""
+    }
+]
